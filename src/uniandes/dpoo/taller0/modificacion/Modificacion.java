@@ -13,7 +13,6 @@ public class Modificacion {
 	public static void main(String[] args)
 	{
 		System.out.println("Hola, mundo!");
-		//Probando hacer otro commit
 		CalculadoraEstadisticas calc;
 		try {
 			calc = LoaderOlimpicos.cargarArchivo("./data/atletas.csv");
@@ -22,7 +21,7 @@ public class Modificacion {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+		//Probando hacer otro commit
 	}
 
 }
